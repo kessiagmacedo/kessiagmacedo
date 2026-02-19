@@ -1,5 +1,5 @@
 # Bio:
-👩🏻‍🏫 Professora de Física<br>👩🏻‍🔬 Mestre em Ensino de Física - UFSC<br>📈 👩🏻‍💻 Data Scientist 
+👩 Mestre em Ensino de Física - UFSC<br>📈 👩🏻‍💻 Data Scientist 
 
 
 # 💻 Tech Stack:
