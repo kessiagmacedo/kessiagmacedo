@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/kessiagmacedo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=C04CFD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cientista+de+Dados+%F0%9F%93%88;Mestre+em+Ensino+de+F%C3%ADsica+%E2%80%94+UFSC+%F0%9F%8E%93;Transformando+dados+em+respostas+%F0%9F%94%8D;Da+queda+livre+ao+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=C04CFD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cientista+de+Dados+%F0%9F%93%88;Mestre+em+Ensino+de+F%C3%ADsica+%E2%80%94+UFSC+%F0%9F%8E%93;Transformando+dados+em+respostas+%F0%9F%94%8D; alt="Typing SVG"/>
   </a>
 </p>
 
